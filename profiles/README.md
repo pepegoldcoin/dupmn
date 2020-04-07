@@ -6,5 +6,6 @@ CFL        : wget -q https://raw.githubusercontent.com/neo3587/dupmn/master/prof
 SNO        : wget -q https://raw.githubusercontent.com/neo3587/dupmn/master/profiles/savenode.dmn
 PHON       : wget -q https://raw.githubusercontent.com/neo3587/dupmn/master/profiles/phonecoin.dmn
 PSC        : wget -q https://raw.githubusercontent.com/neo3587/dupmn/master/profiles/PrimeStone.dmn
+PEPS       : wget -q https://raw.githubusercontent.com/neo3587/dupmn/master/profiles/peps.dmn
 ```
 Check [Profile Creation](https://github.com/neo3587/dupmn#-profile-creation) to create your own profiles.
